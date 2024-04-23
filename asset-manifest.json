@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Warehouse-Wizzards/static/css/main.7acaea2f.css",
+    "main.js": "/Warehouse-Wizzards/static/js/main.07d3183d.js",
+    "index.html": "/Warehouse-Wizzards/index.html",
+    "main.7acaea2f.css.map": "/Warehouse-Wizzards/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Warehouse-Wizzards/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
